@@ -1,0 +1,11 @@
+{
+  "name": "Viewra",
+  "description": "A live-streaming platform with secure JWT authentication, direct low-latency LiveKit cloud streaming, real-time Socket.IO chat, and live tracking metrics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
