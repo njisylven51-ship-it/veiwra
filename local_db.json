@@ -1,52 +1,104 @@
 {
   "users": [
     {
-      "id": "usr_db1t07bz8",
-      "username": "jimmy",
-      "email": "father@father.com",
-      "password": "$2b$10$OCO6exNu81TOG1NtKxkPG.lJf2IDJQgXlc/m6RMKnJLtJjHTZybNm",
-      "createdAt": "2026-06-14T15:42:37.060Z"
-    },
-    {
-      "id": "usr_f78cjngfo",
-      "username": "ijnerg",
-      "email": "f@m.com",
-      "password": "$2b$10$ZIO1t9snCPtyWKCHtSk.9ezpekMlu6OizBXB9K7w6s8Tu..PuDTUq",
-      "createdAt": "2026-06-14T15:43:51.048Z"
+      "id": "usr_zooaz2zp2",
+      "username": "cater",
+      "email": "cartewjsksry3tyu@carter.com",
+      "password": "$2b$10$OFA93BJrULugleDjoSow/uHnGE0gjFMFeNqiwheO/Ka3CBnZ.Y2nK",
+      "createdAt": "2026-06-23T13:09:51.178Z"
+    },{
+      "id": "usr_zooaz2zp2",
+      "username": "cater",
+      "email": "cartewjsksry3tyu@carter.com",
+      "password": "$2b$10$OFA93BJrULugleDjoSow/uHnGE0gjFMFeNqiwheO/Ka3CBnZ.Y2nK",
+      "createdAt": "2026-06-23T13:09:51.178Z"
+    },{
+      "id": "usr_zooaz2zp2",
+      "username": "cater",
+      "email": "cartewjsksry3tyu@carter.com",
+      "password": "$2b$10$OFA93BJrULugleDjoSow/uHnGE0gjFMFeNqiwheO/Ka3CBnZ.Y2nK",
+      "createdAt": "2026-06-23T13:09:51.178Z"
+    },{
+      "id": "usr_zooaz2zp2",
+      "username": "cater",
+      "email": "cartewjsksry3tyu@carter.com",
+      "password": "$2b$10$OFA93BJrULugleDjoSow/uHnGE0gjFMFeNqiwheO/Ka3CBnZ.Y2nK",
+      "createdAt": "2026-06-23T13:09:51.178Z"
     }
   ],
   "streams": [
     {
-      "id": "stream_wdkv0vgf7",
-      "title": "bsv",
-      "description": "hlvs",
-      "streamerId": "usr_db1t07bz8",
+      "id": "stream_nv8wykb1z",
+      "title": "carter",
+      "description": "join",
+      "streamerId": "usr_xfn38xgnl",
+      "status": "ENDED",
+      "createdAt": "2026-06-23T13:08:00.234Z",
+      "updatedAt": "2026-06-23T13:09:19.956Z"
+    },
+    {
+      "id": "stream_4rmq2mqm8",
+      "title": "wacartery3tyu@carter.com",
+      "description": "",
+      "streamerId": "usr_zooaz2zp2",
+      "status": "ENDED",
+      "createdAt": "2026-06-23T13:10:01.672Z",
+      "updatedAt": "2026-06-23T13:11:22.722Z"
+    },
+    {
+      "id": "stream_4rmq2mqm8",
+      "title": "wacartery3tyu@carter.com",
+      "description": "",
+      "streamerId": "usr_zooaz2zp2",
       "status": "LIVE",
-      "createdAt": "2026-06-14T15:42:50.060Z",
-      "updatedAt": "2026-06-14T15:43:09.571Z"
+      "createdAt": "2026-06-23T13:10:01.672Z",
+      "updatedAt": "2026-06-23T13:10:04.444Z"
+    },
+    {
+      "id": "stream_4rmq2mqm8",
+      "title": "MANUALLY SETUP STRAM",
+      "description": "",
+      "streamerId": "usr_zooaz2zp2",
+      "status": "LIVE",
+      "createdAt": "2026-06-23T13:10:01.672Z",
+      "updatedAt": "2026-06-23T13:10:04.444Z"
     }
   ],
   "messages": [
     {
-      "id": "msg_g226o9dz2",
-      "streamId": "stream_wdkv0vgf7",
-      "userId": "usr_db1t07bz8",
+      "id": "msg_5qci8jtj8",
+      "streamId": "stream_4rmq2mqm8",
+      "userId": "usr_zooaz2zp2",
       "content": "hey",
-      "createdAt": "2026-06-14T15:43:00.088Z"
+      "createdAt": "2026-06-23T13:10:17.214Z"
     },
     {
-      "id": "msg_rch27wpz0",
-      "streamId": "stream_wdkv0vgf7",
-      "userId": "usr_f78cjngfo",
-      "content": "yoo people of eRTH",
-      "createdAt": "2026-06-14T15:44:02.095Z"
+      "id": "msg_ex35k5c78",
+      "streamId": "stream_4rmq2mqm8",
+      "userId": "usr_zooaz2zp2",
+      "content": "ANS SO",
+      "createdAt": "2026-06-23T13:13:00.778Z"
     },
     {
-      "id": "msg_mm6s5s2us",
-      "streamId": "stream_wdkv0vgf7",
-      "userId": "usr_db1t07bz8",
-      "content": "DICK HEAD",
-      "createdAt": "2026-06-14T15:44:12.014Z"
+      "id": "msg_ex35k5c78",
+      "streamId": "stream_4rmq2mqm8",
+      "userId": "usr_zooaz2zp2",
+      "content": "ANS SO",
+      "createdAt": "2026-06-23T13:13:00.778Z"
+    },
+    {
+      "id": "msg_ex35k5c78",
+      "streamId": "stream_4rmq2mqm8",
+      "userId": "usr_zooaz2zp2",
+      "content": "ANS SO",
+      "createdAt": "2026-06-23T13:13:00.778Z"
+    },
+    {
+      "id": "msg_ex35k5c78",
+      "streamId": "stream_4rmq2mqm8",
+      "userId": "usr_zooaz2zp2",
+      "content": "what is the porpose of this siting",
+      "createdAt": "2026-06-23T13:13:00.778Z"
     }
   ]
 }

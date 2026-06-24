@@ -91,7 +91,7 @@ export default function Register({ onLoginSuccess }: RegisterProps) {
                 type="text"
                 required
                 value={username}
-                onChange={(e) => setUsername(e.target.value)}
+                onChange={(e: { target: { value: any; }; }) => setUsername(e.target.value)}
                 placeholder="e.g. jason_broadcaster"
                 className="w-full bg-zinc-950/40 border border-white/10 hover:border-white/15 focus:border-violet-500 focus:ring-1 focus:ring-violet-500 rounded-lg pl-10 pr-4 py-2.5 text-zinc-200 placeholder-zinc-500 focus:outline-none transition-all text-xs"
               />
